@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WearDemo</string>
+    <string
+        name="intro_text">
+        Long
+        click
+        to
+        exit
+        the
+        map.
+    </string>
+</resources>
